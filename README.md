@@ -3,7 +3,7 @@ Link to Cognos Dashboard : https://us3.ca.analytics.ibm.com/bi/?perspective=dash
 
 Link to YouTube Presentation:
 
-##Our Team:
+## Our Team:
 
 Somya Agarwal: https://github.com/somyaagarwal0325
 
